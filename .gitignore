@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log*
+e2e/report
+selenium-debug.log
+.npmrc

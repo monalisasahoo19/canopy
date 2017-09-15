@@ -1,0 +1,24 @@
+{
+  "src_folders": ["e2e/tests"],
+  "output_folder": "e2e/report",
+  "page_objects_path": "e2e/pages",
+  "selenium": {
+    "start_process": false,
+    "host": "localhost",
+    "port": 4444
+  },
+  "test_settings": {
+    "default": {
+      "selenium_host": "localhost",
+      "selenium_port": 4444,
+      "launch_url" : "http://lefthandedgoat.github.io/canopy/testpages/",
+      "desiredCapabilities": {
+        "project": "Domain Desktop",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true,
+        "browserName": "chrome"
+      }
+    }
+  }
+}
+

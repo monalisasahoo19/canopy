@@ -1,0 +1,16 @@
+{
+  "name": "software-engineer-in-test-exam",
+  "version": "1.0.0",
+  "description": "Software Engineer in Test exam",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "nightwatch -c e2e/nightwatch.conf.js"
+  },
+  "author": "Martin Jujou",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.24.1",
+    "nightwatch": "^0.9.8",
+    "selenium-server-standalone-jar": "^2.53.1"
+  }
+}

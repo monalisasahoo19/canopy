@@ -1,9 +1,9 @@
 ### Canopy Functional Test - Nightwatch.js
  
- The following files are the additional added to the project
+ The following files are the additional files included in the project
  
   * selectors/homePageSelectors 
-    + This file contains the mapping for the NightwacthJS which maps to  the page object elements present on homePageObject
+    + This file contains the mappings for the NightwacthJS which maps to  the page object elements present on homePageObject
     
   * data/expectedHomePage
     + This file contains the test data for better maintainability 

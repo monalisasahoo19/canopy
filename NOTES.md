@@ -12,3 +12,5 @@
     + This is the custom assertions to validate the number of elements inside a list which is being used to count number of items present inside the states dropdown.
 
 # Screenshot of the test report
+
+![](https://s3-ap-southeast-2.amazonaws.com/canopydomain/CanopyTestReport.jpg)

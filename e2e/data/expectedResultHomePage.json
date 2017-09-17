@@ -1,0 +1,10 @@
+{
+    "title": "canopy testing page",
+    "testValue1": "test value 1",
+    "testValueX": "test value X",
+    "ajaxLoadedMessage": "ajax loaded",
+    "item2": "Item 2",
+    "buttonClickedMessage": "button clicked",
+    "testAlertMessage": "test!",
+    "statesCount": 70
+}

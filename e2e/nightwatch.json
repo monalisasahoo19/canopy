@@ -2,6 +2,7 @@
   "src_folders": ["e2e/tests"],
   "output_folder": "e2e/report",
   "page_objects_path": "e2e/pages",
+  "custom_assertions_path" : "e2e/assertions",
   "selenium": {
     "start_process": false,
     "host": "localhost",

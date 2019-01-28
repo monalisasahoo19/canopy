@@ -1,4 +1,4 @@
-# Software Engineer in Test Technical Exam
+# Nightwatch Demo
 
 The task is to complete some e2e tests against the testing site:
 [http://lefthandedgoat.github.io/canopy/testpages/](http://lefthandedgoat.github.io/canopy/testpages/)
